@@ -1,0 +1,1 @@
+# pactice-3-columns-preview-card-component
