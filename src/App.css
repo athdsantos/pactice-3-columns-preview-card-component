@@ -43,13 +43,16 @@ Very light gray (background, headings, buttons): hsl(0, 0%, 95%)
 
 body {
     background-color: hsl(0, 0%, 95%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .App {
     display: flex;
     flex-direction: row;
-    margin: 25vh auto;
-    max-width: 980px;
+    margin: 20vh auto;
+    max-width: 900px;
   }
 
 h1 {
